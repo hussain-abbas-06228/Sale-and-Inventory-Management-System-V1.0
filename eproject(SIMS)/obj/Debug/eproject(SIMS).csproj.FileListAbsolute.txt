@@ -1,0 +1,50 @@
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\bin\Debug\eproject(SIMS).exe.config
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\bin\Debug\eproject(SIMS).exe
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\bin\Debug\eproject(SIMS).pdb
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject(SIMS).csprojResolveAssemblyReference.cache
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.Form1.resources
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.Properties.Resources.resources
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject(SIMS).csproj.GenerateResource.Cache
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject(SIMS).csproj.CoreCompileInputs.cache
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject(SIMS).exe
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject(SIMS).pdb
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.mainscreen.resources
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.inventoryreport.resources
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.salesreport.resources
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.inventorymanagerdash.resources
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.salesmanagerdash.resources
+C:\Users\Husaain Abbas\Desktop\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.salespersondash.resources
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\bin\Debug\eproject(SIMS).exe.config
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject(SIMS).exe
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject(SIMS).pdb
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\bin\Debug\eproject(SIMS).exe
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\bin\Debug\eproject(SIMS).pdb
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject(SIMS).csprojResolveAssemblyReference.cache
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.Form1.resources
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.inventorymanagerdash.resources
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.inventoryreport.resources
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.mainscreen.resources
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.Properties.Resources.resources
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.salesmanagerdash.resources
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.salespersondash.resources
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.salesreport.resources
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject(SIMS).csproj.GenerateResource.Cache
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.checkout.resources
+F:\hussainvisualstudio\Eproject 2018\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.loginpasswordinfo.resources
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\bin\Debug\eproject(SIMS).exe.config
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject(SIMS).exe
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject(SIMS).pdb
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\bin\Debug\eproject(SIMS).exe
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\bin\Debug\eproject(SIMS).pdb
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject(SIMS).csprojResolveAssemblyReference.cache
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.checkout.resources
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.Form1.resources
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.inventorymanagerdash.resources
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.inventoryreport.resources
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.loginpasswordinfo.resources
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.mainscreen.resources
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.Properties.Resources.resources
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.salesmanagerdash.resources
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.salespersondash.resources
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject_SIMS_.salesreport.resources
+F:\hussainvisualstudio\Eproject 2018 finale\EPROJECT(2018)SIMS\eproject(SIMS)\eproject(SIMS)\obj\Debug\eproject(SIMS).csproj.GenerateResource.Cache
